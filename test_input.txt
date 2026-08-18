@@ -1,0 +1,24 @@
+1
+Toyota
+Corolla 2.0 Flex
+2021
+45000
+1
+B
+B
+R
+R
+U
+1
+Volvo
+FH 540
+2019
+280000
+3
+B
+B
+B
+B
+B
+2
+0
